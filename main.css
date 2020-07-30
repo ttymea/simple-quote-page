@@ -25,6 +25,15 @@ body {
   margin-top: 40px;
 }
 
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
 @media screen and (max-width: 600px)
 {
   .quote {
