@@ -35,3 +35,10 @@ body {
     font-size: 0.9rem;
   }
 }
+
+@media screen and (min-width: 1000px)
+{
+.wrapper {
+  margin: 200px 6vw 0 6vw;
+  }
+}
